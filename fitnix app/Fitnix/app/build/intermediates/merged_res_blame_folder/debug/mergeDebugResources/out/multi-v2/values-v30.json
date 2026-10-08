@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fitnix.app-mergeDebugResources-2:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/private/var/folders/zd/hdx8fwnn3gx0snk4nchww_99xp1qn1/T/cursor-sandbox-cache/0362e4bf0e551a329129351487726b82/gradle/caches/8.10.2/transforms/197572b66ba4d8fcc05966f51235bac5/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

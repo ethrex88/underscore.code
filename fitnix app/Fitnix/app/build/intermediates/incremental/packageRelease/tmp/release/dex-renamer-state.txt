@@ -1,0 +1,4 @@
+#Thu Oct 08 18:06:27 IST 2026
+base.0=/Users/ranjank1/Documents/ranjan fit app/fitnix app/Fitnix/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

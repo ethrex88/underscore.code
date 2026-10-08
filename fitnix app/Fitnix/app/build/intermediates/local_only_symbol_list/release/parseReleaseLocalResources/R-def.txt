@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+color fitnix_bg
+color ic_launcher_bg
+drawable ic_launcher_fg
+drawable logo
+drawable logo_icon
+drawable splash_icon
+mipmap ic_launcher
+string app_name
+style Theme.Fitnix

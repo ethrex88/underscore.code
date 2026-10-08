@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fitnix_bg">#0B0F0D</color>
+    <color name="ic_launcher_bg">#000302</color>
+    <string name="app_name">Fitnix</string>
+    <style name="Theme.Fitnix" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/fitnix_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

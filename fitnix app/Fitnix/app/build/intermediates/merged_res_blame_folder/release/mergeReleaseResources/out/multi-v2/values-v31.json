@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fitnix.app-mergeReleaseResources-2:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/ranjank1/Documents/ranjan fit app/fitnix app/Fitnix/app/src/main/res/values-v31/themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "501"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "540"
+                    }
+                }
+            ]
+        }
+    ]
+}
